@@ -1,16 +1,18 @@
-## Hi there 👋
+### About
 
-<!--
-**thxgo/thxgo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+```
+$ whoami
+Thiago Leite \\ computer science student, focused on data science & cloud
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+$ ls ./interests
+data-science   cloud-infrastructure   devops   mlops   linux-systems
+
+$ cat status.txt
+currently pursuing a B.S. in computer science at UERJ (Rio de Janeiro).
+pretty excited about automating internal workflows with python & bash, involved with a ML project (pandas, scikit-learn, MLflow, DVC) in university.
+
+working on: AWS CLF-C02, LPIC-1 
+studying: SQL for data engineering, AWS, docker
+```
